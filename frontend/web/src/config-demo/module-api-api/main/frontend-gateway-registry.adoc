@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\config-demo\module-api-api\main\frontend-gateway-registry.adoc
+// Generated at: 2025-10-10T05:50:58.905Z
